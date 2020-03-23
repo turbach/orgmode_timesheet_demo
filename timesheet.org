@@ -1,0 +1,14 @@
+#+STARTUP: showall
+
+* Project 1
+
+* Project 2
+
+* Project 3
+
+* Weekly reports
+
+#+BEGIN: clocktable :maxlevel 1 :scope file :block 2020-3 :step week :stepskip0 t
+
+#+END:
+
