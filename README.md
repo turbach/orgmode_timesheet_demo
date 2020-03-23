@@ -13,7 +13,7 @@ Notation:
 1. One time setup
 
   - save the timesheet.org template file on linux (or type it up)
-  - open the file in emacs (you may need to press TAB TAB to expand the view)
+  - open the file in emacs (you can cycle expand/collapse the view with SHIFT-TAB)
   - edit the Project labels as you like
   - add more project lines if you like, each begins with a "*" and whatever label you want
 
@@ -32,7 +32,7 @@ Tip: the time stamps are just text, if you goof up the clock edit the timestamp
 
 General orgmode info:
 
-- online docs: https://orgmode.org/guide/
+- online docs: https://orgmode.org/manual/
 - reference card: https://orgmode.org/orgcard.pdf
 
 
